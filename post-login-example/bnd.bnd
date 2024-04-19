@@ -1,0 +1,4 @@
+Bundle-Name: post-login-example
+Bundle-SymbolicName: com.liferay.kris.post.login
+Bundle-Version: 1.0.0
+
